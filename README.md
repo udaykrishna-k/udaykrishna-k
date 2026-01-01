@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Senior Software Engineer at HCL Tech, with over 2 years of experience in software development. I hold a master's degree from IIT and have been involved in various high-impact projects, including the optimization of algorithms where I achieved a 60% improvement in efficiency. I am currently deepening my expertise in system design concepts, with a particular focus on backend development. I enjoy working on projects using Java and Python, leveraging these technologies to build scalable and efficient systems.<br>
+I am currently working as a Senior Software Engineer at Arivonix AI, with over 2 years of experience in software development. I hold a master's degree from IIT and have been involved in various high-impact projects, including the optimization of algorithms where I achieved a 60% improvement in efficiency. I am currently deepening my expertise in system design concepts, with a particular focus on backend development. I enjoy working on projects using Java and Python, leveraging these technologies to build scalable and efficient systems.<br>
 
 
 ## 🌐 Socials:
